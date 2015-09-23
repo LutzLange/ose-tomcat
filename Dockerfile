@@ -6,4 +6,4 @@ ADD sample.war /opt/webserver/webapps/
 
 EXPOSE 8080
 
-#CMD ["${CATALINA_HOME}/bin/catalina.sh", "run"]
+CMD ["${CATALINA_HOME}/bin/catalina.sh", "run"]
