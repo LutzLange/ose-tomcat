@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/jboss-webserver-3/tomcat8-openshift:3.1
+FROM registry.access.redhat.com/jboss-webserver-3/webserver30-tomcat8-openshift
 
 MAINTAINER ceberle@redhat.com
 
